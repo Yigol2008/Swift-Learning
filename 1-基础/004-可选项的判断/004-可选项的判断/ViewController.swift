@@ -103,7 +103,7 @@ class ViewController: UIViewController {
              代码执行至此，name 和 age 一定有值
              通常判断是否有值之后，会做具体的逻辑实现，通常代码多
              如果用 if let 凭空多了一层分支，guard 是降低分支层次的方法
-             guard  的语法是 swift 2.0 退出的
+             guard  的语法是 swift 2.0 推出的
              */
             print(name + String(age))
             
